@@ -1,0 +1,12 @@
+apt update
+apt upgrade
+pkg install git
+pkg install python
+git clone https://github.com/skolldz/zeroeye
+git clone https://github.com/ashutosh805/zeroeye-tool
+cd zeroeye
+ls
+chmod +x *
+ls
+python dream.py
+
